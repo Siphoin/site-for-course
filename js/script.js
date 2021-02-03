@@ -1,3 +1,3 @@
 function go_buy() {
-    location.replace('/index.html')
+    location.replace('https://siphoin.github.io/site-for-course/')
 }
