@@ -1,3 +1,3 @@
 function go_buy() {
-    location.replace('/')
+    location.replace('/index.html')
 }
